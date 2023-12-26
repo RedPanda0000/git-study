@@ -1,6 +1,6 @@
 category: java
-lectures: Hong
-related:
+lectures: Hongs
+related: OOP
 - spring
 - MVC
 - class
