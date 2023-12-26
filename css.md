@@ -1,5 +1,5 @@
 category: css
-title: css basic 
+title: css basic
 lectures: Lim
 related:
 - html
