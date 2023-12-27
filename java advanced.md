@@ -1,5 +1,5 @@
 category: java
-lectures: Jin
+lectures: Kang
 related:
 - xcss
 - eclipse
